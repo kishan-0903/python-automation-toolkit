@@ -23,6 +23,12 @@ A financial management script featuring robust error-handling to prevent negativ
 ### 04. International Payment Processor (`04_currency_converter.py`)
 An automated currency conversion tool using functional programming. It processes multiple foreign currency entries and converts them to local currency (INR) using standardized exchange rate logic.
 
+### 05. Market Data Intelligence Parser (`05_market_data_analyzer.py`)
+A specialized data processing script designed to map disparate data streams (Product Lists & Price Lists) into structured Python Dictionaries. It features a high-value filtering engine to isolate specific market segments based on pricing thresholds.
+
+**Key Technical Achievement:** * Implemented complex list-to-dictionary mapping using `range(len())` logic.
+* Automated data filtering for business-specific financial criteria.
+
 ## 🚀 Technical Stack
 * **Language:** Python 3.x
 * **Concepts:** Data Structures (Lists), Control Flow (If/Else, Loops), Functional Programming.
