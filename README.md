@@ -20,6 +20,9 @@ Processes multiple data points simultaneously to provide a percentage-based prog
 ### 03. Secure Expense Tracker (`03_smart_expense_tracker.py`)
 A financial management script featuring robust error-handling to prevent negative data entry and automate budget-vs-actual analysis.
 
+### 04. International Payment Processor (`04_currency_converter.py`)
+An automated currency conversion tool using functional programming. It processes multiple foreign currency entries and converts them to local currency (INR) using standardized exchange rate logic.
+
 ## 🚀 Technical Stack
 * **Language:** Python 3.x
 * **Concepts:** Data Structures (Lists), Control Flow (If/Else, Loops), Functional Programming.
